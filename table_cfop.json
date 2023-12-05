@@ -1,0 +1,294 @@
+﻿[
+    {
+        "Codigo": "1102",
+        "Nome": "Compra para comercialização"
+    },
+    {
+        "Codigo": "1113",
+        "Nome": "Compra para comercialização, de mercadoria recebida anteriormente em consignação mercantil"
+    },
+    {
+        "Codigo": "1117",
+        "Nome": "Compra para comercialização originada de encomenda para recebimento futuro"
+    },
+    {
+        "Codigo": "1118",
+        "Nome": "Compra de mercadoria para comercialização pelo adquirente originário, entregue pelo vendedor remetente ao destinatário, em venda à ordem"
+    },
+    {
+        "Codigo": "1121",
+        "Nome": "Compra para comercialização, em venda à ordem, já recebida do vendedor remetente"
+    },
+    {
+        "Codigo": "1251",
+        "Nome": "Compra de energia elétrica para distribuição ou comercialização"
+    },
+    {
+        "Codigo": "1403",
+        "Nome": "Compra para comercialização em operação com mercadoria sujeita ao regime de substituição tributária  do ICMS (bares, restaurantes etc.)"
+    },
+    {
+        "Codigo": "1652",
+        "Nome": "Compra de combustível ou lubrificante para comercialização"
+    },
+    {
+        "Codigo": "2102",
+        "Nome": "Compra para comercialização"
+    },
+    {
+        "Codigo": "2113",
+        "Nome": "Compra para comercialização, de mercadoria recebida anteriormente em consignação mercantil"
+    },
+    {
+        "Codigo": "2117",
+        "Nome": "Compra para comercialização originada de encomenda para recebimento futuro"
+    },
+    {
+        "Codigo": "2118",
+        "Nome": "Compra de mercadoria para comercialização pelo adquirente originário, entregue pelo vendedor remetente ao destinatário, em venda à ordem"
+    },
+    {
+        "Codigo": "2121",
+        "Nome": "Compra para comercialização, em venda à ordem, já recebida do vendedor remetente"
+    },
+    {
+        "Codigo": "2251",
+        "Nome": "Compra de energia elétrica para distribuição ou comercialização"
+    },
+    {
+        "Codigo": "2403",
+        "Nome": "Compra para comercialização em operação com mercadoria sujeita ao regime de substituição tributária do ICMS  (bares, restaurantes etc.)"
+    },
+    {
+        "Codigo": "2652",
+        "Nome": "Compra de combustível ou lubrificante para comercialização"
+    },
+    {
+        "Codigo": "3102",
+        "Nome": "Compra para comercialização  (Importação)"
+    },
+    {
+        "Codigo": "3251",
+        "Nome": "Compra de energia elétrica para distribuição ou comercialização  (Importação)"
+    },
+    {
+        "Codigo": "3652",
+        "Nome": "Compra de combustível ou lubrificante para comercialização (Importação)"
+    },
+    {
+        "Codigo": "1101",
+        "Nome": "Compra para industrialização ou Produção Rural"
+    },
+    {
+        "Codigo": "1111",
+        "Nome": "Compra para industrialização, de mercadoria recebida anteriormente em consignação industrial"
+    },
+    {
+        "Codigo": "1116",
+        "Nome": "Compra para industrialização originada de encomenda para recebimento futuro"
+    },
+    {
+        "Codigo": "1120",
+        "Nome": "Compra para industrialização, em venda à ordem, já recebida do vendedor remetente"
+    },
+    {
+        "Codigo": "1122",
+        "Nome": "Compra para industrialização em que a mercadoria foi remetida pelo fornecedor ao industrializador sem transitar pelo estabelecimento adquirente"
+    },
+    {
+        "Codigo": "1126",
+        "Nome": "Compra para utilização na prestação de serviço sujeito ao ICMS"
+    },
+    {
+        "Codigo": "1128",
+        "Nome": "Compra para utilização na prestação de serviço sujeito ao ISSQN"
+    },
+    {
+        "Codigo": "1401",
+        "Nome": "Compra para industrialização em operação com mercadoria sujeita ao regime de substituição tributária"
+    },
+    {
+        "Codigo": "1407",
+        "Nome": "Compra de mercadoria para uso ou consumo cuja mercadoria está sujeita ao regime de substituição tributária (do ICMS)"
+    },
+    {
+        "Codigo": "1556",
+        "Nome": "Compra de material para uso ou consumo"
+    },
+    {
+        "Codigo": "1651",
+        "Nome": "Compra de combustível ou lubrificante para industrialização subseqüente"
+    },
+    {
+        "Codigo": "1653",
+        "Nome": "Compra de combustível ou lubrificante por consumidor ou usuário final"
+    },
+    {
+        "Codigo": "2101",
+        "Nome": "Compra para industrialização ou Produção Rural"
+    },
+    {
+        "Codigo": "2111",
+        "Nome": "Compra para industrialização, de mercadoria recebida anteriormente em consignação industrial"
+    },
+    {
+        "Codigo": "2116",
+        "Nome": "Compra para industrialização originada de encomenda para recebimento futuro"
+    },
+    {
+        "Codigo": "2120",
+        "Nome": "Compra para industrialização, em venda à ordem, já recebida do vendedor remetente"
+    },
+    {
+        "Codigo": "2122",
+        "Nome": "Compra para industrialização em que a mercadoria foi remetida pelo fornecedor ao industrializador sem transitar pelo estabelecimento adquirente"
+    },
+    {
+        "Codigo": "2126",
+        "Nome": "Compra para utilização na prestação de serviço sujeito ao ICMS"
+    },
+    {
+        "Codigo": "2128",
+        "Nome": "Compra para utilização na prestação de serviço sujeita ao ISSQN"
+    },
+    {
+        "Codigo": "2401",
+        "Nome": "Compra para industrialização em operação com mercadoria sujeita ao regime de substituição tributária"
+    },
+    {
+        "Codigo": "2407",
+        "Nome": "Compra de mercadoria para uso ou consumo cuja mercadoria está sujeita ao regime de substituição tributária (do ICMS)"
+    },
+    {
+        "Codigo": "2556",
+        "Nome": "Compra de material para uso ou consumo"
+    },
+    {
+        "Codigo": "2651",
+        "Nome": "Compra de combustível ou lubrificante para industrialização subseqüente"
+    },
+    {
+        "Codigo": "2653",
+        "Nome": "Compra de combustível ou lubrificante por consumidor ou usuário final"
+    },
+    {
+        "Codigo": "3101",
+        "Nome": "Compra para industrialização ou Produção Rural  (Importação)"
+    },
+    {
+        "Codigo": "3126",
+        "Nome": "Compra para utilização na prestação de serviço  (Importação)"
+    },
+    {
+        "Codigo": "3128",
+        "Nome": "Compra para utilização na prestação de serviço sujeita ao ISSQN (Importação)"
+    },
+    {
+        "Codigo": "3556",
+        "Nome": "Compra de material para uso ou consumo (Importação)"
+    },
+    {
+        "Codigo": "3651",
+        "Nome": "Compra de combustível ou lubrificante para industrialização subseqüente  (Importação)"
+    },
+    {
+        "Codigo": "3653",
+        "Nome": "Compra de combustível ou lubrificante por consumidor ou usuário final  (Importação)"
+    },
+    {
+        "Codigo": "1124",
+        "Nome": "Industrialização efetuada por outra empresa"
+    },
+    {
+        "Codigo": "1125",
+        "Nome": "Industrialização efetuada por outra empresa quando a mercadoria remetida para utilização no processo de industrialização não transitou pelo estabelecimento adquirente da mercadoria"
+    },
+    {
+        "Codigo": "1933",
+        "Nome": "Aquisição de serviço tributado pelo Imposto sobre Serviços de Qualquer Natureza"
+    },
+    {
+        "Codigo": "2124",
+        "Nome": "Industrialização efetuada por outra empresa"
+    },
+    {
+        "Codigo": "2125",
+        "Nome": "Industrialização efetuada por outra empresa quando a mercadoria remetida para utilização no processo de industrialização não transitou pelo estabelecimento adquirente da mercadoria"
+    },
+    {
+        "Codigo": "2933",
+        "Nome": "Aquisição de serviço tributado pelo Imposto Sobre Serviços de Qualquer Natureza"
+    },
+    {
+        "Codigo": "1201",
+        "Nome": "Devolução de venda de produção do estabelecimento"
+    },
+    {
+        "Codigo": "1202",
+        "Nome": "Devolução de venda de mercadoria adquirida ou recebida de terceiros"
+    },
+    {
+        "Codigo": "1203",
+        "Nome": "Devolução de venda de produção do estabelecimento, destinada à Zona Franca de Manaus ou Áreas de Livre Comércio"
+    },
+    {
+        "Codigo": "1204",
+        "Nome": "Devolução de venda de mercadoria adquirida ou recebida de terceiros, destinada à Zona Franca de Manaus ou Áreas de Livre Comércio"
+    },
+    {
+        "Codigo": "1410",
+        "Nome": "Devolução de venda de produção do estabelecimento em operação com produto sujeito ao regime de substituição tributária"
+    },
+    {
+        "Codigo": "1411",
+        "Nome": "Devolução de venda de mercadoria adquirida ou recebida de terceiros em operação com mercadoria sujeita ao regime de substituição tributária (do ICMS)"
+    },
+    {
+        "Codigo": "1660",
+        "Nome": "Devolução de venda de combustível ou lubrificante destinado à industrialização subseqüente"
+    },
+    {
+        "Codigo": "1661",
+        "Nome": "Devolução de venda de combustível ou lubrificante destinado à comercialização"
+    },
+    {
+        "Codigo": "1662",
+        "Nome": "Devolução de venda de combustível ou lubrificante destinado a consumidor ou usuário final"
+    },
+    {
+        "Codigo": "2201",
+        "Nome": "Devolução de venda de produção do estabelecimento"
+    },
+    {
+        "Codigo": "2202",
+        "Nome": "Devolução de venda de mercadoria adquirida ou recebida de terceiros"
+    },
+    {
+        "Codigo": "2410",
+        "Nome": "Devolução de venda de produção do estabelecimento em operação com produto sujeito ao regime de substituição tributária"
+    },
+    {
+        "Codigo": "2411",
+        "Nome": "Devolução de venda de mercadoria adquirida ou recebida de terceiros em operação com mercadoria sujeita ao regime de substituição tributária (do ICMS)"
+    },
+    {
+        "Codigo": "2660",
+        "Nome": "Devolução de venda de combustível ou lubrificante destinado à industrialização subseqüente"
+    },
+    {
+        "Codigo": "2661",
+        "Nome": "Devolução de venda de combustível ou lubrificante destinado à comercialização"
+    },
+    {
+        "Codigo": "2662",
+        "Nome": "Devolução de venda de combustível ou lubrificante destinado a consumidor ou usuário final"
+    },
+    {
+        "Codigo": "1922",
+        "Nome": "Lançamento efetuado a título de simples faturamento decorrente de compra para recebimento futuro (*)"
+    },
+    {
+        "Codigo": "2922",
+        "Nome": "Lançamento efetuado a título de simples faturamento decorrente de compra para recebimento futuro (*)"
+    }
+]
